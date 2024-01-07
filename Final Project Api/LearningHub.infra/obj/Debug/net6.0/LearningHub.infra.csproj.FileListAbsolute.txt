@@ -1,0 +1,17 @@
+D:\study\1-Training\API\Final Project\LearningHub.infra\bin\Debug\net6.0\LearningHub.infra.deps.json
+D:\study\1-Training\API\Final Project\LearningHub.infra\bin\Debug\net6.0\LearningHub.infra.runtimeconfig.json
+D:\study\1-Training\API\Final Project\LearningHub.infra\bin\Debug\net6.0\LearningHub.infra.dll
+D:\study\1-Training\API\Final Project\LearningHub.infra\bin\Debug\net6.0\LearningHub.infra.pdb
+D:\study\1-Training\API\Final Project\LearningHub.infra\bin\Debug\net6.0\LearningHub.core.dll
+D:\study\1-Training\API\Final Project\LearningHub.infra\bin\Debug\net6.0\LearningHub.core.pdb
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.csproj.AssemblyReference.cache
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.AssemblyInfoInputs.cache
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.AssemblyInfo.cs
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.csproj.CoreCompileInputs.cache
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.csproj.CopyComplete
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.dll
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\refint\LearningHub.infra.dll
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.pdb
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\LearningHub.infra.genruntimeconfig.cache
+D:\study\1-Training\API\Final Project\LearningHub.infra\obj\Debug\net6.0\ref\LearningHub.infra.dll

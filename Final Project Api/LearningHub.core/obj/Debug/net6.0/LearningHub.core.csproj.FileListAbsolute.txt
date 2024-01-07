@@ -1,0 +1,12 @@
+D:\study\1-Training\API\Final Project\LearningHub.core\bin\Debug\net6.0\LearningHub.core.deps.json
+D:\study\1-Training\API\Final Project\LearningHub.core\bin\Debug\net6.0\LearningHub.core.dll
+D:\study\1-Training\API\Final Project\LearningHub.core\bin\Debug\net6.0\LearningHub.core.pdb
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\LearningHub.core.csproj.AssemblyReference.cache
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\LearningHub.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\LearningHub.core.AssemblyInfoInputs.cache
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\LearningHub.core.AssemblyInfo.cs
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\LearningHub.core.csproj.CoreCompileInputs.cache
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\LearningHub.core.dll
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\refint\LearningHub.core.dll
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\LearningHub.core.pdb
+D:\study\1-Training\API\Final Project\LearningHub.core\obj\Debug\net6.0\ref\LearningHub.core.dll
